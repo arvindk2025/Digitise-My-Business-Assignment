@@ -5,6 +5,25 @@ This project is an assignment for Digitise My Business, aiming to create a dynam
 | Project Hosted Link on Render |https://koinx-backend-assignment-ah3d.onrender.com/|
 |---|---|
 
+## Project Overview :
+
+1. Generated Form with all the required fields ...
+```
+   1.Text field
+   2.Password field
+   3.Select Radio Button field
+   4.Checkbox Option field
+   5.File upload field.
+``` 
+![Digitise-My-Business-Assignment](./assets_2/1.png?raw=true "Digitise-My-Business-Assignment")
+
+2. After Form submission it is in initial condition and showing toast :- Form Submitted Successfully ...
+![Digitise-My-Business-Assignment](./assets_2/3.png?raw=true "Digitise-My-Business-Assignment")
+
+3. After Submission Data is Showing in Console .....
+
+![Digitise-My-Business-Assignment](./assets_2/4.png?raw=true "Digitise-My-Business-Assignment")
+
 ## Features
 
 - Generated Dynamic Forms based on JSON configuration.
