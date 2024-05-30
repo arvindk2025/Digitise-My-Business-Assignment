@@ -2,7 +2,7 @@
 
 This project is an assignment for Digitise My Business, aiming to create a dynamic form generator using React and Formik. The form generator allows users to create forms based on a JSON configuration, with support for various input fields such as text, password, select, radio, checkbox, and file upload.
 
-| Project Hosted Link on Render |https://dyanmicform789-arvind-kumars-projects-4babefbb.vercel.app/|
+| Project Hosted Link on Vercel |https://dyanmicform789-arvind-kumars-projects-4babefbb.vercel.app/|
 |---|---|
 
 ## Project Overview :
